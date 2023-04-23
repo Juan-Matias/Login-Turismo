@@ -1,7 +1,7 @@
 # Login-Turismo
 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/ded5f1ba8edd12cee7d1fe34c610095ee7642c4b/imagen.jpg](https://github.com/Juan-Matias/Login-Turismo/blob/fec5b79bc17e01982d8f075610c89cd21857099f/Login-principal.PNG">
+     <img src="https://github.com/Juan-Matias/Login-Turismo/blob/main/Login-principal.PNG">
 </p>
     
 <div align="center">
