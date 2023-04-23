@@ -26,4 +26,4 @@
 
 ## 💡 Descripción
 
-Crear un login conectado con php y una base de datos de mySql llamada test
+Crear un login conectado con php y una base de datos mySql llamada test
