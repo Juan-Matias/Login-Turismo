@@ -1,15 +1,15 @@
 # Login-Turismo
 
-👓 Login Principal
+## 👓 Login Principal
 <p align="center" >
      <img src="https://github.com/Juan-Matias/Login-Turismo/blob/main/imagende-Readme/Login-principal.PNG">
 </p>
-✔️ Acceso Permitodo
+## ✔️ Acceso Permitodo
 <p align="center" >
      <img src="https://github.com/Juan-Matias/Login-Turismo/blob/main/imagende-Readme/Acceso-Permitido.PNG">
 </p>
 
-❌ Acceso denegado
+## ❌ Acceso denegado
 <p align="center" >
      <img src="https://github.com/Juan-Matias/Login-Turismo/blob/main/imagende-Readme/Contraseña-Incorrecta.PNG">
 </p>
